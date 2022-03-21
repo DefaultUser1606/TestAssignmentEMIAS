@@ -1,7 +1,0 @@
-ToySupplier\Controllers\ToyOrderController.class
-ToySupplier\Repositories\OrderRepository.class
-ToySupplier\DatabaseModels\Order.class
-ToySupplier\WebModels\NewToyOrderResponse.class
-ToySupplier\WebModels\NewStockTransactionRequest.class
-ToySupplier\ToySupplierApplication.class
-ToySupplier\WebModels\NewStockTransactionResponse.class
